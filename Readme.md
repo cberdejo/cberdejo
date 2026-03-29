@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Cberdejo
 
-Visit my [web](http://christianberdejo.com) if you want to know more about me or toe read an explanation of my projects.
+Visit my [web](http://christianberdejo.com) if you want to know more about me or to read an explanation of my projects.
 
 ### Skills 
 #### Coding Languages
