@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Cberdejo
 
-Visit my [web](http://christianberdejo.com) if you want to read explanation of my projects.
+Visit my [web](http://christianberdejo.com) if you want to know more about me or toe read an explanation of my projects.
 
 ### Skills 
 #### Coding Languages
@@ -80,49 +80,6 @@ Visit my [web](http://christianberdejo.com) if you want to read explanation of m
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-
-###  My Principles for Living & Working
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Inter, ui-sans-serif",
-    "fontSize": "14px",
-
-    "mainBkg": "#FFFFFF",
-    "textColor": "#0F172A",
-
-    "primaryColor": "#EAF2FF",        
-    "primaryBorderColor": "#6AA0FF",
-    "primaryTextColor": "#0F172A",
-
-    "secondaryColor": "#FFEFD6",      
-    "tertiaryColor": "#EAF7F0",       
-
-    "clusterBkg": "#FFFFFF",
-    "lineColor": "#C7CEDA",           
-    "edgeLabelBackground": "#F1F5F9"
-  }
-}}%%
-mindmap
-  root((My Principles))
-    🧠 Think
-      Question everything
-      Learn deeply
-      Stay curious
-    🤝 Collaborate
-      Celebrate teamwork
-      Help others grow
-      Build trust
-    🌿 Live
-      Keep balance
-      Enjoy the process
-      Stay grounded
-    💬 Communicate
-      Listen more than talk
-      Be clear
-      Value feedback
-```
 ## 🔗 Let's connect
 
 <p>
